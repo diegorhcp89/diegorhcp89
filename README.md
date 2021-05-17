@@ -1,5 +1,4 @@
-### Hi there I'm Diego Amaral👋
-
+<h1>Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Amaral</h1>
 
 <!--- 🔭 I’m currently working on ...-->
 - 📚 I’m currently learning  Web Full Stack --> HTML, CSS, JavaScript and NodeJs

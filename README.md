@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on ...-->
 - 📚 I’m currently learning  Web Full Stack --> HTML, CSS, JavaScript and NodeJs
-- 🏝  I'm from Sao Paulo, Brazil
+- 🏝  I'm from São Paulo, Brazil
 - 😄 I speak English and Portuguese 
 <!---- 🕹 In my free time I like to play games, watch series and go to the gym-->
 <!--- - 👯 I’m looking to collaborate on ...-->

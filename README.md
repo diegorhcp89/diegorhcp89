@@ -16,6 +16,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegoferreira86/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thediegoamaral/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/diegoferreiratm)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
+[![28929274](https://user-images.githubusercontent.com/56324728/95018280-0dd49100-0635-11eb-8c71-3195be694c4f.png)](https://app.rocketseat.com.br/me/diego-ferreira-do-amaral-09608)
 
 ⚡ Technologies
 

@@ -6,7 +6,7 @@
 - 📚 I’m currently learning  Web Full Stack --> HTML, CSS, JavaScript and NodeJs
 - 🏝  I'm from Sao Paulo, Brazil
 - 😄 I speak English and Portuguese 
-- 🕹 In my free time I like to play games, watch series and go to the gym
+<!---- 🕹 In my free time I like to play games, watch series and go to the gym-->
 <!--- - 👯 I’m looking to collaborate on ...-->
 <!--- - 🤔 I’m looking for help with ...-->
 <!--- - 💬 Ask me about .... -->

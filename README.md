@@ -2,7 +2,10 @@
 
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Web Full Stack --> HTML, CSS, JavaScript and NodeJs
+- 📚 I’m currently learning  Web Full Stack --> HTML, CSS, JavaScript and NodeJs
+- 🏝  I'm from Sao Paulo, Brazil
+- 😄 I speak English and Portuguese 
+- 🕹 In my free time I like to play games, watch series and go to the Gym
 <!--- - 👯 I’m looking to collaborate on ...-->
 <!--- - 🤔 I’m looking for help with ...-->
 <!--- - 💬 Ask me about .... -->
@@ -18,3 +21,4 @@
 <br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorhcp89&layout=compact&theme=dracula)](https://github.com/diegorhcp89/github-readme-stats)

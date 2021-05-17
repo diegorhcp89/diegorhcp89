@@ -3,7 +3,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Amaral</h1>
 
 <!--- 🔭 I’m currently working on ...-->
-- 📚 I’m currently learning  Web Full Stack --> HTML, CSS, JavaScript and NodeJs
+- 📚 I’m currently learning  Web Full Stack
 - 🏝  I'm from São Paulo, Brazil
 - 😄 I speak English and Portuguese 
 <!---- 🕹 In my free time I like to play games, watch series and go to the gym-->

@@ -36,7 +36,7 @@ These are some of the technologies and tools that I learning and work with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorhcp89&layout=compact&theme=dracula)](https://github.com/diegorhcp89/github-readme-stats)
 
 
-![Snake animation](https://github.com/diegorhcp89/diegorhcp89/blob/output/github-contribution-grid-snake.svg)
+<!---- ![Snake animation](https://github.com/diegorhcp89/diegorhcp89/blob/output/github-contribution-grid-snake.svg) -->
 
 <!---- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)

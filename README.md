@@ -27,6 +27,7 @@ These are some of the technologies and tools that I learning and work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue)
 
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegorhcp89&show_icons=true&count_private=true&theme=dracula)

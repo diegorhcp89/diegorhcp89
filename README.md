@@ -29,6 +29,14 @@ These are some of the technologies and tools that I learning and work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue)
 
+⚡ Technologies Low Code
+
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![AZ-900 Certified](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegorhcp89&show_icons=true&count_private=true&theme=dracula)
 <br>

@@ -38,7 +38,7 @@ These are some of the technologies and tools that I learning and work with:
 [![PL-900 Certified](https://images.credly.com/size/150x150/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](https://www.credly.com/badges/e28e3401-0b85-4cc1-b22f-817a45dc1fe9/linked_in?t=rgaxuk "PL-900")
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegorhcp89&show_icons=true&count_private=true&theme=dracula)
-<br>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorhcp89&layout=compact&theme=dracula)](https://github.com/diegorhcp89/github-readme-stats)

@@ -14,8 +14,8 @@
 <!---😄 Pronouns: -->
 <!---- ⚡ Fun fact: ...-->
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegoferreira86/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
+[<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegoferreira86/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
 
 ⚡ Technologies
 

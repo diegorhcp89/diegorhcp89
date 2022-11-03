@@ -14,8 +14,8 @@
 <!---😄 Pronouns: -->
 <!---- ⚡ Fun fact: ...-->
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegoferreira86/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegoferreira86/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
 
 ⚡ Technologies
 
@@ -30,7 +30,7 @@ These are some of the technologies and tools that I learning and work with:
 
 ⚡ Technologies Low Code
 
-![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 ⚡ Microsoft Certifications
 

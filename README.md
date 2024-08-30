@@ -34,7 +34,7 @@ These are some of the technologies and tools that I learning and working with:
 
 ⚡ Business intelligence
 
-![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=flat-the-badge&logo=Power%20BI&logoColor=white)
 
 ⚡ Microsoft Certifications
 

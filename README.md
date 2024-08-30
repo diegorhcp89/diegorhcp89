@@ -32,6 +32,10 @@ These are some of the technologies and tools that I learning and working with:
 
 ![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
+⚡ Business intelligence
+
+![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
 ⚡ Microsoft Certifications
 
 [![AZ-900 Certified](https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/98fe0fd8-870c-4815-b9b7-b9e15357aeb6/linked_in?t=rj0yev "AZ-900")

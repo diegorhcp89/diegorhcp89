@@ -18,15 +18,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:diegoferreiradoamaral@gmail.com)](mailto:diegoferreiradoamaral@gmail.com)
 
 ⚡ Technologies
-
+[Python](https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue)
+<!----
 These are some of the technologies and tools that I learning and working with:
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue)-->
 
 ⚡ Technologies Low Code
 
